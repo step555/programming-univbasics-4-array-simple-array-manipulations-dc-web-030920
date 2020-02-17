@@ -51,3 +51,11 @@ def using_flatten(array)
   instruments = ["Saxophone", ["Piano", "Trumpet"], "Violin", "Drums", "Flute"]
   flat_array = instruments.flatten
 end
+
+def using_delete(array, string)
+  
+end
+
+def using_delete_at(array, integer)
+  
+end
