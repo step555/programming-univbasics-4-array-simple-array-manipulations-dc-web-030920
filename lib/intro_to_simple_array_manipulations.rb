@@ -6,5 +6,5 @@ end
 
 def using_unshift
   bouroughs_in_nyc = ["Brooklyn", "Queens", "Manhattan", "Bronx"]
-  next_bourough = ""
+  new_neighborhood = "Staten Island"
 end
