@@ -42,5 +42,6 @@ def using_insert(array, element)
     @list_of_programming_languages.insert(4, @another_language)
 end
 
-def using_uniq
+def using_uniq(array)
+  
 
