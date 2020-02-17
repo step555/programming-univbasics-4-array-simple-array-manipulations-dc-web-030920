@@ -1,3 +1,5 @@
+colors_in_the_rainbow = ["red", "orange", "yellow", "green", "blue", "indigo"]
+
 def _rainbow(array, string)
-  rainbow.push("violet")
+  colors_in_the_rainbow.push("violet")
 end
