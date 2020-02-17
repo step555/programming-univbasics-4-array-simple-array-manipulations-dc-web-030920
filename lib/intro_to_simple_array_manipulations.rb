@@ -30,5 +30,7 @@ def shift_with_args(array)
   @ice_cream_brands.shift(2)
 end
 
-
+def using_concat(array1, array2)
+  
+end
 
